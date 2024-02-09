@@ -2,6 +2,7 @@
 """
 Fully Convolutional neural network (U-Net) for velocity model building from prestack unmigrated seismic data directly
 
+@author: Daniel Manu (dmanu@unm.edu)
 """
 
 ################################################
