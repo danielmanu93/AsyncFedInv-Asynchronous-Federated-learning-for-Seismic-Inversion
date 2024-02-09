@@ -2,9 +2,7 @@
 """
 Load testing data set
 
-Created on Feb 2018
-
-@author: fangshuyang (yfs2016@hit.edu.cn)
+@author: Daniel Manu (dmanu@unm.edu)
 
 """
 
