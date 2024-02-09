@@ -4,4 +4,4 @@ In this project, we proposed the Asynchronous Federated Learning for Seismic Inv
 
 The overview of the whole AnsycFedInv architecture is shown in the image below:
 
-![FL_Seismic.jpg]()
+![FL_Seismic.jpg](FL_Sesmic.jpg)
